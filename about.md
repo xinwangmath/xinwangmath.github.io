@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is a personal blog, mostly about notes on mathematics and related stuffs.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I am Xin Wang. I am currently a graduate student in mathematics at Georgia Tech, with a second majoy in computational science and engineering. 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I am currently working on numerical analysis. I am interested in numerical analysis, application of real algebraic geometry in optimization and topological data analysis.
