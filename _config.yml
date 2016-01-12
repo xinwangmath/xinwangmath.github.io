@@ -5,8 +5,9 @@ description: > # this means to ignore newlines until "baseurl:"
   Xin Wang's personal notes on mathematics, physics, programming, etc.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-#twitter_username: jekyllrb
+twitter_username: xin-wang-7849791a
 github_username:  xinwangmath
+#twitter_username:
 
 # Build settings
 markdown: kramdown
